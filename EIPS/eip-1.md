@@ -142,7 +142,7 @@ Each EIP must begin with an [RFC 822](https://www.ietf.org/rfc/rfc822.txt) style
 
 Headers that permit lists must separate elements with commas.
 
-Headers requiring dates will always do so in the format of ISO 8601 (yyyy-mm-dd).
+Headers requiring dates will always do so in the format of RFC 3339 (yyyy-mm-dd).
 
 ### `author` header
 
